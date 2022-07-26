@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="008299d2-f467-48ba-8623-42c64217a2e3" name="SRNet-datagen">
+        <fileTransfer rootFolder="/home/lily/SRNet-datagen" accessType="SFTP" host="172.31.224.51" port="22" sshConfigId="cf0725b5-765d-40f8-9e92-05397dcc22d8" sshConfig="lily@172.31.224.51:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

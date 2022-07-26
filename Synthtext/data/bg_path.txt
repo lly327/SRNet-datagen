@@ -1,0 +1,3 @@
+/home/lily/SRNet-datagen/Synthtext/data/background/img.png
+/home/lily/SRNet-datagen/Synthtext/data/background/img_1.png
+/home/lily/SRNet-datagen/Synthtext/data/background/img_2.png
